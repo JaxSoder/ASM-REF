@@ -10,7 +10,7 @@ section .text
  
 _start:
 	
-	call _printText1
+    call _printText1
     call _getName
     call _printText2
     call _printName
